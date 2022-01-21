@@ -1,6 +1,5 @@
 ---
 output:
-  html_document: default
   pdf_document: default
 ---
 # EC282SP2022
@@ -52,9 +51,9 @@ Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book
 
 ### Important Dates 
 
-- Midterm I :  **Feb 28, 2022**  
-- Midterm II:  **Mar 31, 2022** 
-- Final exam:      **May 5, 2022**
+* Midterm I :  **Feb 28, 2022**
+* Midterm II:  **Mar 31, 2022**
+* Final exam:      **May 5, 2022**
 
 #### Homework assignment deadlines  
 
