@@ -1,19 +1,18 @@
 ---
 output:
-  html_document: default
   pdf_document: default
 ---
 
 
 # Homework Assignment 1
-## Deadline: XXXX 
+## Deadline: February 20, midnight 
 
-**Source:** Stock and Watson, $4^{th}$ Edition, Exercise 3.1   
+**Source:** Stock and Watson, 4th Edition, Exercise 3.1   
 
 **Data description:** You can find the [data description  here](https://www.dropbox.com/s/7n79v2mjogzxv2j/CPS96_15_Description.pdf?dl=1
 ). 
 
-### Questions
+## Questions
 
 **a.** In 2015, the value of the Consumer Price Index (CPI) was 237.0. In 1996, the value of the CPI was 156.9. Create a new variable in your data frame that expressed all earnings in real 2015 dollars. Use this variable to answer the next questions.   
 
@@ -33,7 +32,7 @@ output:
 
 **h.** Did the gap between earnings of college and high school graduates increase? Use statistical inference to answer. 
 
-### Header for the R script
+## Header for the R script
 
 Start a new R script, copy/paste the header below and save it to ```Dropbox\EC282\Assignment1``` or a similar path that you created for this homework assignment. Run the R script and make sure that you have the data ```df1``` in your environment. Conduct the analysis below the header. 
 
