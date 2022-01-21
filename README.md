@@ -104,7 +104,7 @@ All students have access to Bentley’s academic integrity policy on Blackboard 
 
 My goal in this class is to create a teaching environment that is inclusive for all of the members of our community independent of their race, gender, age, disability status, and political or religious views. Our differences strengthen our ability for perspective taking, being critical about our default believes,and enhance learning. 
 
-I will try to reach this goal within my best capacity by respect and professionalism in our class-related engagements and I anticipate students to do the same. These standards of appropriate conduct are well summarized by [Bentley's Core Values](https://www.bentley.edu/about/mission-and-values)in our institution's mission statement. 
+I will try to reach this goal within my best capacity by respect and professionalism in our class-related engagements and I anticipate students to do the same. These standards of appropriate conduct are well summarized by [Bentley's Core Values](https://www.bentley.edu/about/mission-and-values) in our institution's mission statement. 
 
 
 If you feel that I or anyone in this class has acted outside these values, please come to me so that we may discuss your experience. If you do not feel comfortable coming to me with your concerns, I encourage you to speak with someone in the Office of Academic Advising: 781.891.2803, academic_services@bentley.edu, Jennison 336.      
@@ -161,10 +161,10 @@ Students are expected to attend classes synchronously despite potential time zon
 * **Introduction to the course, logistics, syllabus, expectations and pap-talk.**
 
 * **Applied research in economics,  Introduction to R.** 
-* *Watch these*: [1. Starting out](https://www.youtube.com/watch?v=KQZtnZa70kE), [2. Basic R Programming](https://www.youtube.com/watch?v=KRjhoBSWz1o), [3. Manipulating data using dplyr](https://www.youtube.com/watch?v=32amn8jzTEQ&t=208s)  
+* *Videos*: [1. Starting out](https://www.youtube.com/watch?v=KQZtnZa70kE), [2. Basic R Programming](https://www.youtube.com/watch?v=KRjhoBSWz1o), [3. Manipulating data using dplyr](https://www.youtube.com/watch?v=32amn8jzTEQ&t=208s)  
 
 * **Random variables, sampling variation, sample mean, variance, distribution of random variables** 
-* *Read these:* Chapter 2 of Stock and Watson:  1.Random sampling and the distribution of the sample average, 2.large-sample approximations to sampling distributions
+* *Readings:* Chapter 2 of Stock and Watson:  1. Random sampling and the distribution of the sample average, 2. Large-sample approximations to sampling distributions
 
 * **Econometrics Research Seminar** 
 
@@ -175,12 +175,12 @@ Students are expected to attend classes synchronously despite potential time zon
 * **Central limit theorem**
 * **Hypothesis testing concerning the sample mean and confidence intervals**
 * **Scatterplots, the sample covariance, and the sample correlation** 
-* *Read these:*: Chapter 3 of Stock and Watson: 1. Hypothesis Tests Concerning the Population Mean, 2. Confidence Intervals for the Population Mean 3. Comparing Means from Different Populations, 4. Scatter plots, the Sample Covariance, and the Sample Correlation. 
+* *Readings:*: Chapter 3 of Stock and Watson: 1. Hypothesis Tests Concerning the Population Mean, 2. Confidence Intervals for the Population Mean 3. Comparing Means from Different Populations, 4. Scatter plots, the Sample Covariance, and the Sample Correlation. 
 
 
 * **Bivariate OLS Model** 
-* *Read this:* [Describing Relationships](https://theeffectbook.net/ch-DescribingRelationships.html)
-* *Watch this:*[The Bivariate OLS]([https://www.youtube.com/watch?v=qcJGl0wxgaY&t=5s)
+* *Readings:* [Describing Relationships](https://theeffectbook.net/ch-DescribingRelationships.html)
+* *Videos:*[The Bivariate OLS]([https://www.youtube.com/watch?v=qcJGl0wxgaY&t=5s)
 
 
 **Weeks 5-6**     
@@ -192,7 +192,7 @@ Students are expected to attend classes synchronously despite potential time zon
 
 * **Estimate Uncertainty and Hypothesis Testing** 
 
-* *Watch these:*[1. Regression Predictions and Residuals](https://www.youtube.com/watch?v=dstJjA8s9Do&t=4s), [2. Hyp. Testing Part 1](https://www.youtube.com/watch?v=QdtBxOJvO_E), [3. Hyp. Testing Part 2](https://www.youtube.com/watch?v=FY-Qwsk-zRM), [4. OLS in R](https://www.youtube.com/watch?v=rC-U8zaTlx4), [5. Hyp. Testing in R](https://www.youtube.com/watch?v=-J4zPwa6ZVw), 
+* *Videos:*[1. Regression Predictions and Residuals](https://www.youtube.com/watch?v=dstJjA8s9Do&t=4s), [2. Hyp. Testing Part 1](https://www.youtube.com/watch?v=QdtBxOJvO_E), [3. Hyp. Testing Part 2](https://www.youtube.com/watch?v=FY-Qwsk-zRM), [4. OLS in R](https://www.youtube.com/watch?v=rC-U8zaTlx4), [5. Hyp. Testing in R](https://www.youtube.com/watch?v=-J4zPwa6ZVw), 
 
 
 **Week 7**     
@@ -204,7 +204,7 @@ Students are expected to attend classes synchronously despite potential time zon
 
 * **Causal Diagrams** 
 
-* *Watch these:*[1. Endogeneity in OLS](https://www.youtube.com/watch?v=Vv1VKKKhS3Y), [2. Controlling for X](https://www.youtube.com/watch?v=Ba2Nhn4co88&t=62s), [3. Causal Diagrams](https://www.youtube.com/watch?v=bEVrJlTdQ98) 
+* *Videos:*[1. Endogeneity in OLS](https://www.youtube.com/watch?v=Vv1VKKKhS3Y), [2. Controlling for X](https://www.youtube.com/watch?v=Ba2Nhn4co88&t=62s), [3. Causal Diagrams](https://www.youtube.com/watch?v=bEVrJlTdQ98) 
 
 **Weeks 9-10**     
 **March 21-March 31**
@@ -215,7 +215,7 @@ Students are expected to attend classes synchronously despite potential time zon
 
 * **Midterm II** 
 
-* *Watch this:* [1. Multivariate regression in R](https://www.youtube.com/watch?v=YvJE4aD7tr8)
+* *Videos:* [1. Multivariate regression in R](https://www.youtube.com/watch?v=YvJE4aD7tr8)
 
 
 **Weeks 11-12**    
@@ -225,7 +225,7 @@ Students are expected to attend classes synchronously despite potential time zon
 
 * **Polynomials and Logarithms**
 
-* *Watch these:* [1. Binary and categorical variables](https://www.youtube.com/watch?v=0ajSzAVOFmY), [2. Polynomials and Logarithms](https://www.youtube.com/watch?v=M7Tcp466hPw)
+* *Videos:* [1. Binary and categorical variables](https://www.youtube.com/watch?v=0ajSzAVOFmY), [2. Polynomials and Logarithms](https://www.youtube.com/watch?v=M7Tcp466hPw)
 
 **Weeks 13-14**    
 **April 18-28**
@@ -233,7 +233,7 @@ Students are expected to attend classes synchronously despite potential time zon
 * **Linear probability model**   
 
 * **Probit and Logit** 
-* *Watch this:* [LPM, Probit, Logit](https://www.youtube.com/watch?v=FoQaJdT-1AI) 
+* *Videos:* [LPM, Probit, Logit](https://www.youtube.com/watch?v=FoQaJdT-1AI) 
 
 
 
