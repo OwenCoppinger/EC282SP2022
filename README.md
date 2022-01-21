@@ -52,10 +52,18 @@ Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book
 
 ### Important Dates 
 
-- Weekly homework assignments: Indicated on this web page, subject to change depending on our pace.   
-- First  Midterm:  **Feb 28, 2022**  
-- Second Midterm:  **Mar 31, 2022** 
+- Midterm I :  **Feb 28, 2022**  
+- Midterm II:  **Mar 31, 2022** 
 - Final exam:      **May 5, 2022**
+
+#### Homework assignment deadlines  
+
+* Assignment 1:     **Feb 20, 2022** 
+* Assignment 2:     **Mar 06, 2022** 
+* Assignment 3:     **Mar 20, 2022** 
+* Assignment 4:     **Apr 06, 2022** 
+* Assignment 5:     **Apr 17, 2022** 
+
 
 ### Evaluation
 
