@@ -77,7 +77,7 @@ Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book
 When learning R, arguably the most important skill that you need to acquire is to be able to **Google** your problem. There is probably not a single R question that you have yet has not been answered on [Stack Overflow](https://stackoverflow.com/). 
   
 
-- **Github**: To create a collaborative and interactive teaching environment, you need to create an account on [GitHub](https://github.com/) using your Bentley email address and accept the project invitation that you will receive from me for EC282. You will only use the very basic tools on [GitHub](https://github.com/), mainly downloading the course material, homework assignments,  issues and discussions tabs, ask questions about them, post an answer, and learn R from me and your peers through sharing your code.
+- **Github**: You will only use the very basic tools on [GitHub](https://github.com/), mainly downloading the course material, homework assignments, and follow the additional material that I post here. 
 
 ### Grading
 
