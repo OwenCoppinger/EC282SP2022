@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # EC282SP2022
 EC282 Spring 2022
 
@@ -9,6 +14,7 @@ EC282 Spring 2022
 This course aims to introduce 21st century econometric analysis to business students. It provides tools to infer meaningful information from data using descriptive and regression analyses. Causal inference and study design will be at the center of the econometrics analysis class.  
 
 At the end of the semester, I expect you to be familiar with **R** and **RStudio** interface, basic data manipulation, obtaining and interpreting sample statistics, conduct meaningful regression analysis and prediction. Importantly, I expect you to have a clear understanding of the distinction between correlation and causation, and in what conditions the former implies the latter. 
+
 
 ### Knowledge and Skills
 
@@ -22,21 +28,22 @@ At the end of the semester, I expect you to be familiar with **R** and **RStudio
 ### Perspectives
 
 * Learn how to conduct a regression analysis, understands its limitation in inferring a causal relationship, generalizing its results, and power in prediction an outcome that is unknown to the researcher.
-
 * Understand the causal research design and its basic implementations. 
-
 * Understand the regression diagnostics to choose the most appropriate definition of predictors, outcome, and functional form.  
 
 ## Class Information 
 ### Contact
 
-- **Instructor**: Onur Altındağ
-- **Course book**: https://theeffectbook.net/ by Nick Huntington-Klein
-- **Useful Videos for learning R** https://www.nickchk.com/videos.html#rstats
-- **Useful Videos of learning Econometrics** https://www.nickchk.com/videos.html#metrics  
-- **Personal web** :   [www.onuraltindag.info](https://www.onuraltindag.info/)
-- **Office**: AAC 181 - *currently NA due to pandemic*
-- **Email**: `oaltindag@bentley.edu`    
+* **Instructor**: Onur Altındağ
+* **Course materials**:  
+    * [The Effect by Nick Huntington-Klein](https://theeffectbook.net/) 
+    * [Introduction to Econometrics by James Stock and Watson](https://www.amazon.com/Introduction-Econometrics-Stock-James-Watson/dp/935286350X) 
+                     
+* **Useful Videos for learning R** https://www.nickchk.com/videos.html#rstats
+* **Useful Videos of learning Econometrics** https://www.nickchk.com/videos.html#metrics  
+* **Personal web** :   [www.onuraltindag.info](https://www.onuraltindag.info/)
+* **Office**: AAC 181 - *currently NA due to pandemic*
+* **Email**: `oaltindag@bentley.edu`    
 
 
 ### Office hours 
@@ -46,43 +53,40 @@ Please go to [my calendar](https://calendly.com/oaltindag/sample-20min) and book
 ### Important Dates 
 
 - Weekly homework assignments: Indicated on this web page, subject to change depending on our pace.   
-- First  Midterm:  **Oct 14, 2022**  
-- Second Midterm:  **Nov 11, 2022** 
-- Final exam:      **Dec 9, 2021**
+- First  Midterm:  **Feb 28, 2022**  
+- Second Midterm:  **Mar 31, 2022** 
+- Final exam:      **May 5, 2022**
 
 ### Evaluation
 
 - First Midterm:      20%
-- Second Midterm:     20%
+- Second Midterm:     25%
 - Final exam:         30%
-- Assignments:        20%
-- Participation:      10%
+- Assignments + participation :        25%
 
 ### Software and Collaborative Work
 
 - **R** and **RStudio**:  I assume that you have a basic familiarity with or expect your effort to gain familiarity throughout the semester. The instructions installation, some basic rules and best practices on coding are on this web page. Keep in mind that this course is **not** designed to teach you R and more than anything, the best way to learn programming is to actually work on assigned problems. 
-When learning R, arguably the most important skill that you need to acquire is to be able to **google** your problem. There is probably not a single R question that you have yet has not been answered on [Stack Overflow](https://stackoverflow.com/). 
+When learning R, arguably the most important skill that you need to acquire is to be able to **Google** your problem. There is probably not a single R question that you have yet has not been answered on [Stack Overflow](https://stackoverflow.com/). 
   
 
 - **Github**: To create a collaborative and interactive teaching environment, you need to create an account on [GitHub](https://github.com/) using your Bentley email address and accept the project invitation that you will receive from me for EC282. You will only use the very basic tools on [GitHub](https://github.com/), mainly downloading the course material, homework assignments,  issues and discussions tabs, ask questions about them, post an answer, and learn R from me and your peers through sharing your code.
 
 ### Grading
 
-- **High-stake assessments**      
-          - **2 Midterms** + **Final**: Constitute 70% of your final grade. All exams are **in-person** with dates indicated on the syllabus. If the classes become online, I will post the exams on **Black Board** and you will have a **24 hours** submission period. 
+#### **High-stake assessments**  
+
+*  **2 Midterms** + **Final**: Constitute 75% of your final grade. All exams are **in-person** with dates indicated on the syllabus. If the classes become online, I will post the exams on **Black Board** and you will have a **24 hours** submission period. 
           
 
-You **MUST** attend the midterms and the final as there will be no make-up exams. The midterms and the final are not cumulative. If you miss or are likely to miss a **midterm** due to an emergency, please contact me as soon as possible. You will need to provide supporting documentation/verification of your absence. I will re-weight your final exam if you have a valid excuse.  If you miss the final exam due to an emergency, you will receive an **incomplete** for this course. **DO NOT** take this class if you know that you will not be able to attend the final exam.     
+* You **MUST** attend the midterms and the final as there will be no make-up exams. The midterms and the final are not cumulative. If you miss or are likely to miss a **midterm** due to an emergency, please contact me as soon as possible. You will need to provide supporting documentation/verification of your absence. I will re-weight your final exam if you have a valid excuse.  If you miss the final exam due to an emergency, you will receive an **incomplete** for this course. **DO NOT** take this class if you know that you will not be able to attend the final exam.     
     
-              
-    
-- **Low-stake assessments**     
-         
-         - **Weekly homework assignments:** The homework assignments are posted on this web page with the deadlines. They can be completed in groups of **maximum two** students but each person should post separate answers through Black Board. **DO NOT** try to submit the homework assignments on last minute as the system will close after the deadline and I will not accept it. Do the best you can with these assignments, work consistently, do not free ride on your friends, and do not cheat. The data sets that each of you will receive are different so I will not tolerate if I see any copied/pasted answers.  
+#### **Low-stake assessments**
+
+* **Weekly homework assignments:** The homework assignments are posted on the **GitHub** web page with the deadlines. They can be completed in groups of **maximum two** students but each person should post separate answers through **Black Board**. **DO NOT** try to submit the homework assignments on last minute as the system will close after the deadline and I will not accept it. Do the best you can with these assignments, work consistently, do not free ride on your friends, and do not cheat. The data sets that each of you will receive are different so I will not tolerate if I see any copied/pasted answers.  
 
 
-
-         - **Collaborative participation to [GitHub](https://github.com/)  and classroom discussions:** You must sign up for a free account on [GitHub](https://github.com/). Github is an eco-system for web development and version control using Git. You will only need to use it to download the course material,  `issues` and `discussions` tabs through either creating an issue to ask or answer a question on your or your peer's empirical analysis, homework assignment, or anything related to econometric analysis. I expect you to actively participate to the discussion on GitHub as it will determine your participation grade. Both asking and answering a question in a meaningful way contributes to your participation grade. To sum, you expect you to actively participate to the online community discussions on GitHub. I will do my best to facilitate the discussion yet I need your active support to make this environment useful for all.           
+* **Collaborative participation to [GitHub](https://github.com/)  and classroom discussions:** You must sign up for a free account on [GitHub](https://github.com/). Github is an eco-system for web development and version control using Git. You will only need to use it to download the course material,  `issues` and `discussions` tabs through either creating an issue to ask or answer a question on your or your peer's empirical analysis, homework assignment, or anything related to econometric analysis. I expect you to actively participate to the discussion on GitHub as it will determine your participation grade. Both asking and answering a question in a meaningful way contributes to your participation grade. To sum, you expect you to actively participate to the online community discussions on GitHub. I will do my best to facilitate the discussion yet I need your active support to make this environment useful for all.           
     
 
     
@@ -147,5 +151,89 @@ I expect you to attend class with a functioning microphone and camera. Cameras s
 You are expected to be able to access all electronic course materials. It is your responsibility to review the course syllabus as soon as possible to determine what resources or materials I expect you to use in the course. If you are a student in an international location that may limit access to certain internet resources, please let me know immediately so you can find a solution. 
 
 Students are expected to attend classes synchronously despite potential time zone hurdles. Solely watching recorded classes is not deemed to be acceptable course participation or completion. Course recordings are for the benefit of students who miss an occasional class or would like to watch the recording for further edification of materials. Class recordings that are posted to BB are for the sole purpose of this course. Disseminating any portion of this video in any manner is strictly prohibited. 
+
+### Tentative Schedule 
+
+
+**Weeks 1-2**     
+**Jan 24-Feb 3**
+
+* **Introduction to the course, logistics, syllabus, expectations and pap-talk.**
+
+* **Applied research in economics,  Introduction to R.** 
+* *Watch these*: [1. Starting out](https://www.youtube.com/watch?v=KQZtnZa70kE), [2. Basic R Programming](https://www.youtube.com/watch?v=KRjhoBSWz1o), [3. Manipulating data using dplyr](https://www.youtube.com/watch?v=32amn8jzTEQ&t=208s)  
+
+* **Random variables, sampling variation, sample mean, variance, distribution of random variables** 
+* *Read these:* Chapter 2 of Stock and Watson:  1.Random sampling and the distribution of the sample average, 2.large-sample approximations to sampling distributions
+
+* **Econometrics Research Seminar** 
+
+
+**Weeks 3-4**     
+**Feb 7-Feb 17**      
+
+* **Central limit theorem**
+* **Hypothesis testing concerning the sample mean and confidence intervals**
+* **Scatterplots, the sample covariance, and the sample correlation** 
+* *Read these:*: Chapter 3 of Stock and Watson: 1. Hypothesis Tests Concerning the Population Mean, 2. Confidence Intervals for the Population Mean 3. Comparing Means from Different Populations, 4. Scatter plots, the Sample Covariance, and the Sample Correlation. 
+
+
+* **Bivariate OLS Model** 
+* *Read this:* [Describing Relationships](https://theeffectbook.net/ch-DescribingRelationships.html)
+* *Watch this:*[The Bivariate OLS]([https://www.youtube.com/watch?v=qcJGl0wxgaY&t=5s)
+
+
+**Weeks 5-6**     
+**Feb 21-March 3**
+
+* **Midterm I**
+
+* **OLS Prediction, Residuals, and Goodness of Fit**
+
+* **Estimate Uncertainty and Hypothesis Testing** 
+
+* *Watch these:*[1. Regression Predictions and Residuals](https://www.youtube.com/watch?v=dstJjA8s9Do&t=4s), [2. Hyp. Testing Part 1](https://www.youtube.com/watch?v=QdtBxOJvO_E), [3. Hyp. Testing Part 2](https://www.youtube.com/watch?v=FY-Qwsk-zRM), [4. OLS in R](https://www.youtube.com/watch?v=rC-U8zaTlx4), [5. Hyp. Testing in R](https://www.youtube.com/watch?v=-J4zPwa6ZVw), 
+
+
+**Week 7**     
+**March 7-March 10**
+
+* **Endogeneity in Ordinary Least Squares** 
+
+* **Identification and Control Variables** 
+
+* **Causal Diagrams** 
+
+* *Watch these:*[1. Endogeneity in OLS](https://www.youtube.com/watch?v=Vv1VKKKhS3Y), [2. Controlling for X](https://www.youtube.com/watch?v=Ba2Nhn4co88&t=62s), [3. Causal Diagrams](https://www.youtube.com/watch?v=bEVrJlTdQ98) 
+
+**Weeks 9-10**     
+**March 21-March 31**
+
+* **Multivariate Regression** 
+
+* **Research Presentation** 
+
+* **Midterm II** 
+
+* *Watch this:* [1. Multivariate regression in R](https://www.youtube.com/watch?v=YvJE4aD7tr8)
+
+
+**Weeks 11-12**    
+**April 4-14**
+
+* **Binary and categorical variables** 
+
+* **Polynomials and Logarithms**
+
+* *Watch these:* [1. Binary and categorical variables](https://www.youtube.com/watch?v=0ajSzAVOFmY), [2. Polynomials and Logarithms](https://www.youtube.com/watch?v=M7Tcp466hPw)
+
+**Weeks 13-14**    
+**April 18-28**
+
+* **Linear probability model**   
+
+* **Probit and Logit** 
+* *Watch this:* [LPM, Probit, Logit](https://www.youtube.com/watch?v=FoQaJdT-1AI) 
+
 
 
